@@ -37,9 +37,13 @@
 ## 🛠️ Como rodar o projeto localmente
 
 git clone https://github.com/seuusuario/multistepreview.git
+
 cd multistep-react
+
 npm install
+
 npm run dev
+
 Depois, acesse http://localhost:5173 no navegador.
 
 📄 Licença
