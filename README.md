@@ -34,23 +34,8 @@
 
 ---
 
-## 📁 Estrutura do Projeto
-
-src/
-├─ components/
-│ ├─ ReviewForm.jsx # Etapa de revisão dos dados preenchidos
-│ ├─ Steps.jsx # Indicador visual das etapas
-│ ├─ Thanks.jsx # Tela final de agradecimento
-│ └─ UserForm.jsx # Formulário principal de entrada de dados
-├─ hooks/
-│ └─ useForm.jsx # Hook customizado para controle do formulário
-├─ App.jsx # Componente principal da aplicação
-├─ main.jsx # Entrada principal do React
-├─ index.css # Estilos globais
-
 ## 🛠️ Como rodar o projeto localmente
 
-```bash
 git clone https://github.com/seuusuario/multistepreview.git
 cd multistep-react
 npm install
@@ -70,4 +55,3 @@ Ou envie um PR com melhorias!
 
 Este projeto foi desenvolvido com fins educacionais, com foco em boas práticas de front-end, acessibilidade e UX.
 Fique à vontade para adaptar e expandir conforme suas necessidades! 🚀
-```
