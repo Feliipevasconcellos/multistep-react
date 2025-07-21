@@ -36,7 +36,7 @@
 
 ## 🛠️ Como rodar o projeto localmente
 
-git clone https://github.com/seuusuario/multistepreview.git
+git clone https://github.com/Feliipevasconcellos/multistepreview.git
 
 cd multistep-react
 
